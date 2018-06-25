@@ -4,3 +4,4 @@ Install Instructions:
 
 - Any file with sh_, cl_ or sv_ should be added to your schema/schema folder and included via your sh_schema.lua file.
 - The 2 folders should be added to the root of your schema folder where the gamemode and schema folders are.
+- Do not just drag the quest folder to your schema as it will not work, the files must be taken out of it and put where stated above.
