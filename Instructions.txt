@@ -1,1 +1,6 @@
 NO SUPPORT IS PROVIDED FOR INSTALLATION OF THIS OR ANY ERRORS YOU FIND, STOP MESSAGING ME RETARDS.
+
+Install Instructions:
+
+- Any file with sh_, cl_ or sv_ should be added to your schema/schema folder and included via your sh_schema.lua file.
+- The 2 folders should be added to the root of your schema folder where the gamemode and schema folders are.
